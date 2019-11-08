@@ -1,0 +1,26 @@
+.jumbotron {
+	background-image: url(rs.jpg);
+	background-size: 100%, 100%;
+}
+
+.jumbotron h1{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	color: white;
+	font-size: 150px;
+	margin-top: 1px;
+}
+
+.jumbotron h2{
+	font-family: Marker Felt, fantasy;
+	color: black;
+	font-size: 100px;
+	margin-top: 5px;
+}
+
+.container{
+	margin-top: 30px;
+}
+
+.container5 {
+	background-color: grey;
+}
